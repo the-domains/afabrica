@@ -14,6 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: A Fábrica
 cta:
   domain: null
   bucket: null
@@ -33,8 +34,8 @@ color:
     - '#EED484'
     - '#7FA9AE'
     - '#83754F'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0.25
+  brandStrength: 1
+  lightness: 0.1020236
+  saturation: 0.2133221
+  rhythmicContrast: 0.3962901
 purpose: []
