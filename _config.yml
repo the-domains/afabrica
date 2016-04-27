@@ -18,9 +18,9 @@ color:
   saturation: 0.5210792
   rhythmicContrast: 0.2487352
   brandColors:
-    - '#FFFFFF'
-    - '#992944'
-    - '#ECD289'
-    - '#7FA9AC'
-    - '#A94A61'
+    - '#211E1F'
+    - '#9B2743'
+    - '#EED484'
+    - '#7FA9AE'
+    - '#83754F'
 typography_spectrum: 0.7225969
