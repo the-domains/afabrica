@@ -1,0 +1,14 @@
+layout_spectrum: 0.1568297
+typography_spectrum: 0.7225969
+color:
+  lightness: 0.6180438
+  brandStrength: 0.234275
+  saturation: 1
+  rhythmicContrast: 0.5556492
+  brandColors:
+    - '#FFFFFF'
+    - '#992944'
+    - '#ECD289'
+    - '#7FA9AC'
+    - '#A94A61'
+name: AFabrica
