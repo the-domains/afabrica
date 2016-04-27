@@ -1,5 +1,7 @@
-layout_spectrum: 0.1568297
 name: AFabrica
+favicon: null
+layout_spectrum: 0.1568297
+typography_spectrum: 0.7225969
 collections:
   - index:
       navigable: true
@@ -12,15 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 1
-  lightness: 0.1020236
-  saturation: 0.2133221
-  rhythmicContrast: 0.3962901
   brandColors:
     - '#211E1F'
     - '#9B2743'
     - '#EED484'
     - '#7FA9AE'
     - '#83754F'
-typography_spectrum: 0.7225969
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.25
+purpose: []
