@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A Fábrica]]></title>
+        <description><![CDATA[A Fábrica]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Apr 2016 04:21:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Silicon Valley Boys Aren't Just Brilliant-They're Part of a Comedy Revolution]]></title>
+            <description><![CDATA[<article><h1>The Silicon Valley Boys Aren't Just Brilliant-They're Part of a Comedy Revolution</h1><p>The games begin-as they so often do-with a poop joke. ¶ It's a late-January morning and we're on a giant back-lot soundstage in Los Angeles, where cast members of HBO's dot-comedy Silicon Valley are hunched over their laptops, tossing out beta-male insults.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c3bb96fb952b030eeef73f574f5c4f4a6052863.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/03/silicon-valley-new-comedy-economy/</link>
+            <guid isPermaLink="false">eda812ed-8948-4dd2-870f-529cee3b8e67</guid>
+            <pubDate>Thu, 28 Apr 2016 04:20:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
